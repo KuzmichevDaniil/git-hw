@@ -1,0 +1,36 @@
+commit f5ebdf390a180c70376237d88144a7d5ff1be731 (HEAD -> main, origin/main)
+Merge: 829c77f f3a7518
+Author: Kuzmichev Daniil <daniilkuzm@gmail.com>
+Date:   Sun Oct 4 15:27:06 2026 +0300
+
+    merge feature-b to main
+
+commit 829c77f628aabe2e7d82570df73fa83f515f79b0
+Author: Kuzmichev Daniil <daniilkuzm@gmail.com>
+Date:   Sun Oct 4 15:23:22 2026 +0300
+
+    change line 3 for feature-a after rebase
+
+commit f3a7518fee06f660229ad2ddb00029fd2ca9c9d9 (origin/feature-b)
+Author: Kuzmichev Daniil <daniilkuzm@gmail.com>
+Date:   Sun Oct 4 15:11:12 2026 +0300
+
+    create line 3 for feature-b
+
+commit 6c2a867f16445d19d767a9bd22a1bff9ac0cc408 (origin/feature-a)
+Author: Kuzmichev Daniil <daniilkuzm@gmail.com>
+Date:   Sun Oct 4 15:08:49 2026 +0300
+
+    create line 4 for feature-a
+
+commit e32f6c8a6006ffa09e8750ccf3b2fe4744c5c20d
+Author: Kuzmichev Daniil <daniilkuzm@gmail.com>
+Date:   Sun Oct 4 15:08:05 2026 +0300
+
+    create line 3 for feature-a
+
+commit e841036db78161b7d778da0b200fdf5d8e8968b4
+Author: Kuzmichev Daniil <daniilkuzm@gmail.com>
+Date:   Sun Oct 4 15:06:40 2026 +0300
+
+    initial commit
