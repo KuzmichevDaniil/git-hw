@@ -9,4 +9,6 @@
 - Я строка 1
 - Я строка 2
 - Я строка 3 после rebase (feature-a) 
+- Я строка 3 (feature-a)
+- Я строка 3 (feature-b)
 - Я строка 4 (feature-a)
